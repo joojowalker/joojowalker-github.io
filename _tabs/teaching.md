@@ -25,4 +25,4 @@ I believe in a student-centered approach to education, where learners are at the
 - Database Management Systems (Regular Students & Distance Education Students)
 - Engineering Technology (Regular Students)
 - Information and Communication Technology (ICT) (Regular Students)
-- C Programming, Python Programming (Distance Education Students)
+- C Programming (Distance Education Students)
