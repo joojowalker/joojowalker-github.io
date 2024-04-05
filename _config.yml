@@ -16,11 +16,10 @@ timezone: Asia/Shanghai
 
 title: Joojo's Hub # the main title
 
-tagline: Growth through learning # it will display as the sub-title
+tagline: I am a Senior Lecturer and AI Researcher # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
-
+  Joojo Walker, github, blog, deep generative models, genai, machine learning, deep learing, christian, pastor.
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://joojowalker.github.io"
@@ -31,18 +30,22 @@ github:
 twitter:
   username: WalkerJoojo # change to your twitter username
 
+linkedin:
+  username: joojo-walker-057b759a # change to your linkedin username
+
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Joojo Walker
-  email: example@domain.com # change to your email address
+  email: joojokojododzi@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
     - https://github.com/username # change to your github homepage
+    - https://www.linkedin.com/in/username # change to your linkedin homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+  
 
 google_site_verification: # fill in to your verification string
 
