@@ -16,10 +16,10 @@ timezone: Asia/Shanghai
 
 title: Joojo's Hub # the main title
 
-tagline: I am a Senior Lecturer and AI Researcher # it will display as the sub-title
+tagline: Growth through Learning # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Joojo Walker, github, blog, deep generative models, genai, machine learning, deep learing, christian, pastor.
+  Joojo Walker, github, blog, deep generative models, genai, machine learning, deep learing, christian, pastor, lecturer.
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://joojowalker.github.io"
