@@ -3,7 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
-I am presently serving as a Senior Lecturer and Level Head at the esteemed [Chengdu University of Technology](https://www.cdut.edu.cn/en/index.htm), Oxford Brookes College. I obtained my Ph.D. and Master's degrees in Software Engineering from the distinguished [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/index.htm) (UESTC). I was supervised by [Professor Zhang Fengli](https://dblp.uni-trier.de/pid/33/2071.html) and [Professor Fan Zhou](https://scholar.google.com/citations?user=Ihj2Rw8AAAAJ&hl=en) during my PhD. My Master's degree supervisor was [Professor Zhong Ting](https://scholar.google.com/citations?user=Mdr0XDkAAAAJ&hl=en).
+I am presently serving as a Senior Lecturer and Level Head at the esteemed Oxford Brookes College, [Chengdu University of Technology](https://www.cdut.edu.cn/en/index.htm). I obtained my Ph.D. and Master's degrees in Software Engineering from the distinguished [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/index.htm) (UESTC). I was supervised by [Professor Zhang Fengli](https://dblp.uni-trier.de/pid/33/2071.html) and [Professor Fan Zhou](https://scholar.google.com/citations?user=Ihj2Rw8AAAAJ&hl=en) during my PhD. My Master's degree supervisor was [Professor Zhong Ting](https://scholar.google.com/citations?user=Mdr0XDkAAAAJ&hl=en).
 
 My research interests revolve primarily around the design of novel machine learning and deep learning algorithms aimed at addressing critical societal challenges. Currently, I am actively engaged in the development of innovative deep generative models to enhance the accuracy, reliability, and security of recommendation systems and educational technologies.
 
