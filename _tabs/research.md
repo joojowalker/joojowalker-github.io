@@ -18,7 +18,7 @@ My research interests primarily revolve around the design of deep learning and p
 - Emmanuel Ahene, **Walker Joojo**, Ikram Ali, Kwame Ofosuhene Peasah, Michael Asante, Efficient Deniable Authentication and its Application in Location-based Services, Computers and Electrical Engineering. (**JCR Q2 Journal, IF: 4.3**)
 - Adu, K., **Walker Joojo**, Mensah, P.K. et al. SqueezeCapsNet: Enhancing capsule networks with squeezenet for holistic medical and complex images, Multimedia Tools and applications.(**JCR Q3 Journal, IF: 3.6**)
 - J. Sun, S. Hu, X. Nie and **Walker Joojo**, Efficient Ranked Multi-Keyword RetrievalWith Privacy Protection for Multiple Data Owners in Cloud Computing, IEEE Systems Journal, vol. 14, no. 2, pp. 1728-1739, June 2020, doi: 10.1109/JSYST.2019.2933346. (**JCR Q2 Journal, IF: 4.4**)
-
+- Ahene E, Ofori-Oduro M, Twum F, **Walker Joojo**, Missah YM., Efficient Authentication Protocol and Its Application in Resonant Inductive Coupling Wireless Power Transfer Systems. Sensors. 2021; 21(24):8245. (**JCR Q2 Journal, IF: 3.9**)
 
 ## Conferences
 - **Walker Joojo**, Zhong T, Gao Q, Zhou F, Zhang F, Recommendation via Collaborative Diffusion Generative Model. 15th International Conference on Knowledge Science, Engineering and Management (KSEM 2022); 2022; 1-14. (**CORE RANK B**)
